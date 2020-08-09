@@ -16,3 +16,26 @@ This is a platform created by us to make sure every struggle during this pandemi
 > we just tried to build a user friendly blog writing platform so that it would be useful many to check all information in one place related to COVID-19
 
 ![](images/post.gif)
+
+# Tech Used 
+  Step to run project & procedure:
+
+1) Move Blogger Project to htdocs folder(Inside XAMPP Server)
+
+2) Open XAMPP Control Panel and start Apache & MySQL Server
+
+3) Open any browser and type localhost
+
+4) Open PHPMyAdmin (or type http://localhost/phpmyadmin/)
+
+5)  And then click on Import option
+
+6) Choose the blog(SQL) file inside the Blogger folder
+
+7) Then click on Go button at bottom (Now DB successfully created)
+
+8) Now again type http://localhost/blogger/ to view your project
+
+9) Congrats, now your project successfully run... 		
+
+Learn from the source code and do modifcation on this project.
