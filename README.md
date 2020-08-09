@@ -49,4 +49,4 @@ we where not able to deploy it on any cloud platform as of time consistency so w
 
 # License
 
-![](license.md)
+![](LICENSE)
