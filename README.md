@@ -19,7 +19,7 @@ This is a platform created by us to make sure every struggle during this pandemi
 
 # Tech Used 
 > PHP , HTML , CSS , Java Script , Jquery , Auth0 .
-<b>
+
 Step to run project & procedure:
 
 1) Move Blogger Project to htdocs folder(Inside XAMPP Server)
