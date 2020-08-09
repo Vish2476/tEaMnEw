@@ -54,3 +54,7 @@ Auth0 helps you to easily:
 ## License
 
 This project is licensed under the MIT license. See the [LICENSE](https://github.com/auth0-samples/auth0-php-web-app/blob/master/LICENSE) file for more info.
+
+![](auth0.gif)
+
+
