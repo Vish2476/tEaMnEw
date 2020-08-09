@@ -17,10 +17,10 @@
 
                 <div class="card-content" style="padding:30px;">
                     Thank you everyone for love and support.
-                    <br/>    
-                    <br/>    
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti dolorem perferendis enim ut a tempora numquam vel est. Facilis porro sapiente consequuntur sed magnam et animi quas, quaerat minus accusamus.
+                    <br/><br/>
+                    This is a platform created by us to make sure every struggle during this pandemic is being heard to the people. All the work done by our health workers which has saved so many lives across the nation we provide you a platform to share your struggle and make you an inspiration to the younger generation.<br/>
                     <br/>
+                    and we are presenting our beautiful concept<b> auth0 Hackathon</b>
                     <br/>
                     <br/>
                     Thank you
