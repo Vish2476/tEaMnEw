@@ -8,4 +8,4 @@ Healthcare workers all around the world are risking their lives to provide care.
 
 
 
-![](index.png)
+![](images/index.png)
