@@ -41,3 +41,12 @@ Step to run project & procedure:
 9) Congrats, now your project successfully run... 		
 
 Learn from the source code and do modifcation on this project.
+
+we where not able to deploy it on any cloud platform as of time consistency so we are adding a demo link for checking
+
+
+[Covid-Blog.com](https://vish2476.github.io/Auth0_Hackathon/About.html)
+
+# License
+
+![](license.md)
